@@ -25,12 +25,12 @@ npm init
 ```sh
 npm install
 ```
-<code>
-solc - Solidity compiler
-mocha - JavaScript test framework running on NodeJS
-ganache-cli - part of the Truffle suite of Ethereum development tools, is the command line version of Ganache, your personal blockchain for Ethereum development
-@truffle/hdwallet-provider- HD Wallet-enabled Web3 provider. Use it to sign transactions for addresses derived from a 12 or 24 word mnemonic
-</code>
+
+<code>solc - Solidity compiler</code>  
+<code>mocha - JavaScript test framework running on NodeJS</code>
+<code>ganache-cli - part of the Truffle suite of Ethereum development tools, is the command line version of Ganache, your personal blockchain for Ethereum development</code>
+<code>@truffle/hdwallet-provider- HD Wallet-enabled Web3 provider. Use it to sign transactions for addresses derived from a 12 or 24 word mnemonic</code>
+
 
 ```sh
 npm install solc web3 mocha ganache-cli @truffle/hdwallet-provider
