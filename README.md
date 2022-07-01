@@ -14,6 +14,10 @@ How do I then test this?
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Pre-Setup
+
+There is a front end application you can run that makes use of this project in the 'React' folder but first you need to go through the steps below and then go through the readme.md file in that folder to run the app on your local machine!
+
 ## Setup..
 
 After cloning the repository and directing yourself to it you will need to do a few things!
